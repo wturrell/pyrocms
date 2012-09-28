@@ -5,7 +5,6 @@
 .idea
 assets/cache/*
 system/cms/cache/*
-system/cms/config/database.php
 system/cms/logs/log-*.php
 nbproject/
 uploads/*
